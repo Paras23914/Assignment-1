@@ -109,9 +109,18 @@ py -3.12 producer.py
 * Producer streams weather events
 * Faust processes ML predictions
 * Consumer displays live prediction results
-
 ---
+
+## Video Demo
+
+Google Drive Link:
+
+https://drive.google.com/file/d/1OEUU2qxGiUqhK4Z_fRJTmjPF0-30T6VY/view?usp=sharing
+
+[Watch Video Demo](https://drive.google.com/file/d/1OEUU2qxGiUqhK4Z_fRJTmjPF0-30T6VY/view?usp=sharing)
 
 ## Author
 
 Paras Sharma
+101040066
+
